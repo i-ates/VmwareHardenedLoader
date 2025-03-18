@@ -1,5 +1,4 @@
 # VMwareHardenedLoader
-https://drive.google.com/file/d/1nTgI7Jhiofzud-cxtt-2Vdp6yNDefOGL/view
 VMware Hardened VM detection mitigation loader
 
 For now, only Windows (vista~win10) x64 guests are supported.
